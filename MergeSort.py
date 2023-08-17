@@ -33,7 +33,7 @@ def MergeSort(arr):
     
 # Test
 
-test_arr = [2,5,8,3,1,3,4,90,10000]
+test_arr = [2,5,8,3,1,3,4,900000,10000]
 MergeSort(test_arr)
 print(test_arr)
 
